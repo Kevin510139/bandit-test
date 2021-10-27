@@ -1,8 +1,7 @@
 # bandit-test
 It is the second case.  
-The flag is password where use RSA encry
-private key is
------BEGIN RSA PRIVATE KEY-----
+The flag is password where you need to decrypt.
+-----BEGIN PRIVATE KEY-----
 MIIBOAIBAAJAW3sGxwLnH6xWApYdV245M9uDbhfRFlpSVgcGBtfXZzP/NrA0X5bC
 OBXCJTjLTrbPn3kLmKmNT1FIYmZKfVz6XwIDAQABAkAqmD8QnO5m1gR6UdE5q23h
 En3A3kARy155Be4tc4StXX5PJxbUssjlKkSUfJWl490ob3sN4y8tM0zmkzJsJmlB
@@ -10,4 +9,4 @@ AiEAqjgvdOV/v34Iq3sfo4CzfY33LYqB4waPHBe08UzgKX8CIQCJlNPnKyZOywnC
 lrnX5HvQ4PhA2mqAmC893lGZ5K7fIQIgdSgUqb1nzrH9X6FvpkZnw6vZi7PAMDSM
 fUZn2IkT5BsCIHPMkYK7/dVJ7eAbrzZ4uII6KJmlfQjZjsG7MuGd6lYhAiBVgmx6
 k6rt749LxZOjtSWcmRBGhLPVeAVQyJzB1THAVw==
------END RSA PRIVATE KEY-----
+-----END PRIVATE KEY-----
